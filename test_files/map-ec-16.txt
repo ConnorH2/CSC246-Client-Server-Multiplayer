@@ -1,0 +1,14 @@
+5 5
+#...#
+.....
+.....
+.....
+#...#
+#...#
+aletha 1 3 1
+bonny 0 2 1
+coleen 0 3 1
+donn 1 0 1
+elvin 2 0 1
+fidel 3 0 1
+gerda 4 0 1
